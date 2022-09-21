@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid rgb(58, 72, 233);
+    margin: 2px;
+    display: inline-block;
+    background-color: yellow;
+    background-image: url(https://media.idownloadblog.com/wp-content/uploads/2021/09/Twist_Blue_Light-iPhone-13-official-Apple-Wallpaperjpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+.bg{
+
+}
